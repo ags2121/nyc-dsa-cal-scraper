@@ -3,7 +3,7 @@ scrapes the https://www.socialists.nyc cal
 
 ## How to run
 
-1. It should work with either python2 or python3... so make sure you have one or the other.
+1. Make sure you have python3 installed.
 2. Make sure you have `requests` and `pytz` installed.
 3. Run `python main.py MM-YYYY` or, for example, `python main.py 04-2019`
 4. Output should look something like this:
